@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca >
+<biblioteca>
+    <documento id="L0123" tipo="libro" tipo_clase="novela" numPags="1345">
+        <titulo>Don Quijote De La Mancha</titulo>
+        <capitulos>
+            <indice>1.Don Quijote De La Mancha 2.Que trata de la primera salida que de su tierra hizo el ingenioso don Quijote 3.Donde se cuenta la graciosa manera que tuvo don Quijote en armarse caballero</indice>
+            <sinopsis>El libro está dividido en 2 partes diferenciadas. La primera parte transcurre entre el mundo fantástico del que habla el libro llamado La historia interminable, el reino de Fantasia,​ y el mundo real. En el mundo fantástico, el protagonista es un joven guerrero llamado Atreyu, a quien la Emperatriz Infantil, soberana de Fantasia, pide iniciar una búsqueda para hallar una cura a la enfermedad que padece y que la está matando lentamente. El otro protagonista es un niño del mundo real, Bastián Baltasar Bux, huérfano de madre y solitario, quien lee la novela que narra la historia de Fantasia, y para quien la historia se vuelve cada vez más real. </sinopsis>
+            <capitulo numPags="78">Don Quijote De La Mancha
+                <contenido informacion="http://cervantes.uah.es/quijote/quij0002.htm#E63E1"></contenido>
+            </capitulo>
+            <capitulo numPags="52">Que trata de la primera salida que de su tierra hizo el ingenioso don Quijote
+                <contenido informacion="http://cervantes.uah.es/quijote/quij0003.htm#E63E2"></contenido>
+            </capitulo>
+            <capitulo numPags="42">Donde se cuenta la graciosa manera que tuvo don Quijote en armarse caballero
+                <contenido informacion="http://cervantes.uah.es/quijote/quij0004.htm#E63E3"></contenido>
+            </capitulo>
+        </capitulos>
+    </documento>
+    <documento id="L0124" tipo="libro" tipo_clase="infantil" numPags="420">
+        <titulo>La Historia Interminable</titulo>
+        <capitulos>
+            <indice>1.Fantasía en peligro 2.El llamamiento de Atreyu 3.La Vetusta Morla</indice>
+            <sinopsis>El libro relata las aventuras y desventuras de un hidalgo de 50 años llamado Alonso Quijano, quien decide ser un caballero andante como aquellos que aparecen en sus libros de caballerías favoritos. Las hazañas de don Quijote están contenidas en dos tomos que narran tres salidas. Por un lado, la “Primera parte” denominada como El ingenioso Hidalgo Don Quijote de la Mancha está formada por 52 capítulos y en ella se encuentran la primera salida y la segunda salida. El segundo tomo, cuyo título es El ingenioso Caballero Don Quijote de la Mancha, contiene 74 capítulos en los que se narra la tercera salida.</sinopsis>
+            <capitulo numPags="45">Fantasía en peligro
+                <contenido informacion="https://la-historia-sin-fin.fandom.com/es/wiki/Fantas%C3%ADa_en_Peligro"></contenido>
+            </capitulo>
+            <capitulo numPags="65">El llamamiento de Atreyu
+                <contenido informacion="https://la-historia-sin-fin.fandom.com/es/wiki/El_Llamamiento_de_Atreyu"></contenido>
+            </capitulo>
+            <capitulo numPags="56">La Vetusta Morla
+                <contenido informacion="https://la-historia-sin-fin.fandom.com/es/wiki/La_Vetusta_Morla"></contenido>
+            </capitulo>
+        </capitulos>
+    </documento>
+    <documento id="L0143" tipo="libro" tipo_clase="didactico" numPags="295">
+        <titulo>Matemáticas Enseñanzas Académicas 4º ESO</titulo>
+        <capitulos>
+            <indice>1.Números reales. Porcentajes 2.Potencias y radicales. Logaritmos 3.Polinomios y fracciones algebraicas</indice>
+            <sinopsis>Libro de matemáticas orientadas a las enseñanzas académicas de cuarto curso de la ESO.</sinopsis>
+            <capitulo numPags="14">Números reales. Porcentajes
+                <contenido informacion="https://lasmatematicas.eu/docs/matematicas4eso_academicas/solucionario_santillana/01_numeros_reales_porcentajes.pdf"></contenido>
+            </capitulo>
+            <capitulo numPags="18">Potencias y radicales. Logaritmos
+                <contenido informacion="https://lasmatematicas.eu/docs/matematicas4eso_academicas/solucionario_santillana/02_potencias_y_radicales_logaritmos.pdf"></contenido>
+            </capitulo>
+            <capitulo numPags="23">Polinomios y fracciones algebraicas
+                <contenido informacion="https://lasmatematicas.eu/docs/matematicas4eso_academicas/solucionario_santillana/03_polinomios_y_fracciones_algebraicas.pdf"></contenido>
+            </capitulo>
+        </capitulos>
+    </documento>
+    <documento id="R2345" tipo="revista" tipo_clase="corazon" numPags="87">
+        <titulo>Hola: Mar Flores primeras delcaraciones tras su separación</titulo>
+        <numero>3741</numero>
+        <indice>1.Actualidad 2.Moda 3.Belleza 4.Lifestyle 5.Casas Reales 6.Horóscopo</indice>
+        <secciones>
+            <seccion numPags="2">Moda
+                <contenido informacion="https://www.hola.com/actualidad/20210515189632/sheila-casas-declaracion-amor-novio-tono-mujeres-hombres-y-viceversa/"></contenido>
+            </seccion>
+            <seccion numPags="1">Belleza
+                <contenido informacion="https://www.hola.com/actualidad/20210515189628/alejandro-fernandez-hijo-alex-boda/"></contenido>
+            </seccion>
+            <seccion numPags="3">Lifestyle
+                <contenido informacion="https://www.hola.com/actualidad/20210515189625/maria-pombo-backstage-el-desafio-complicidad-jesulin-de-ubrique/"></contenido>
+            </seccion>
+            <seccion numPags="2">Casa Reales
+                <contenido informacion="https://www.hola.com/actualidad/20210515189624/michavila-alejandra-salinas-reaparecen-boda/"></contenido>
+            </seccion>
+        </secciones>
+    </documento>
+    <documento id="R2335" tipo="revista" tipo_clase="informatica" numPags="77">
+        <titulo>Computer Hoy: 82 Trucos para tu Smart TV</titulo>
+        <numero>4096</numero>
+        <indice>1. Lo último 2.Tecnología 3.Entretenimiento 4.Gaming 5.Life</indice>
+        <secciones>
+            <seccion numPags="4">Tecnologia
+                <contenido informacion="https://computerhoy.com/reportajes/tecnologia/google-floc-que-es-865837"></contenido>
+            </seccion>
+            <seccion numPags="3">Entretenimiento
+                <contenido informacion="https://computerhoy.com/noticias/tecnologia/sonido-ordenador-no-funciona-culpa-tiene-windows-10-866105"></contenido>
+            </seccion>
+            <seccion numPags="2">Gaming
+                <contenido informacion="https://computerhoy.com/noticias/tecnologia/chrome-windows-10-sera-aun-mucho-rapido-te-decimos-como-866429"></contenido>
+            </seccion>
+            <seccion numPags="3">Life
+                <contenido informacion="https://computerhoy.com/noticias/tecnologia/android-12-supondria-mayor-cambio-diseno-ultimos-anos-estas-serian-novedades-866379"></contenido>
+            </seccion>
+        </secciones>
+    </documento>
+    <documento id="R2545" tipo="revista" tipo_clase="coches" numPags="67">
+        <titulo>Top Auto: Ford Mustang</titulo>
+        <numero>2674</numero>
+        <indice>1.Inicio 2.Top Auto 3.Noticias 4.Pruebas 5.Reportajes</indice>
+        <secciones>
+            <seccion numPags="3">Auto
+                <contenido informacion="http://www.revistatopauto.com/gravel-desafio-todoterreno-extremo/"></contenido>
+            </seccion>
+            <seccion numPags="4">Noticias
+                <contenido informacion="http://www.revistatopauto.com/opel-grandland-suv/"></contenido>
+            </seccion>
+            <seccion numPags="1">Pruebas
+                <contenido informacion="http://www.revistatopauto.com/volvo-lanza-una-marca-premium-base-electrica-modelos/"></contenido>
+            </seccion>
+            <seccion numPags="2">Reportajes
+                <contenido informacion="http://www.revistatopauto.com/kymco-xciting-s-400-tcs-2021/"></contenido>
+            </seccion>
+        </secciones>
+    </documento>
+    <documento id="R2445" tipo="revista" tipo_clase="investigacion" numPags="102">
+        <titulo>Science: Sky High</titulo>
+        <numero>3845</numero>
+        <indice>1.Nature 2.Science 3.Robotics 4.Inmology 5.Advances 6.Signaling</indice>
+        <secciones>
+            <seccion numPags="4">Science
+                <contenido informacion="https://www.sciencemag.org/news/2021/05/scientists-tracking-coronavirus-variants-struggle-global-blind-spots"></contenido>
+            </seccion>
+            <seccion numPags="2">Robotics
+                <contenido informacion="https://www.sciencemag.org/news/2021/05/scientists-tracking-coronavirus-variants-struggle-global-blind-spots"></contenido>
+            </seccion>
+            <seccion numPags="3">Inmology
+                <contenido informacion="https://immunology.sciencemag.org/content/6/59/eabh2259"></contenido>
+            </seccion>
+            <seccion numPags="3">Advances
+                <contenido informacion="https://robotics.sciencemag.org/content/6/54/eabi9220"></contenido>
+            </seccion>
+        </secciones>
+    </documento>
+    <documento id="R2456" tipo="revista" tipo_clase="otras" numPags="45">
+        <titulo>El Mueble: Ganar Espacio</titulo>
+        <numero>986</numero>
+        <indice>1.Casa 2.Decoracion 3.Orden 4.Limpieza 5.Compras</indice>
+        <secciones>
+            <seccion numPags="2">Decoracion
+                <contenido informacion="https://www.elmueble.com/casas-famosos/pablo-motos_46953"></contenido>
+            </seccion>
+            <seccion numPags="1">Orden
+                <contenido informacion="https://www.elmueble.com/decoracion/casas-lectoras-antes-y-despues-espectacular-casa-blanca-hanna-malaga_47160"></contenido>
+            </seccion>
+            <seccion numPags="2">Limpieza
+                <contenido informacion="https://www.elmueble.com/orden-limpieza-ahorro/accesorios-para-aprovechar-espacio-almacenaje-puertas_47089"></contenido>
+            </seccion>
+            <seccion numPags="3">Compras
+                <contenido informacion="https://www.elmueble.com/orden-limpieza-ahorro/trucos-utilizar-aspiradora_47118"></contenido>
+            </seccion>
+        </secciones>
+    </documento>
+    <documento id="P6655" tipo="periodico" tipo_clase="nacional" fechaPub="14/05/2021">
+        <indice>1.Economia 2.Opinion 3.Deportes 4.Nacional 5.Internacional</indice>
+        <seccion tipo_seccion="economica">
+            <articulo autor="Eduardo Fernández">del ERTE al ERE
+                <contenido informacion="https://www.elmundo.es/economia/2021/05/14/609e919ffdddff2a968b45c0.html"></contenido>
+            </articulo>
+            <articulo autor="Guillermo Del Palacio">Autonomos
+                <contenido informacion="https://www.elmundo.es/economia/empresas/2021/05/14/609e817efdddffb8868b45ea.html"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="opinion">
+            <articulo autor="Arcadi Espada">del ERTE al ERE
+                <contenido informacion="https://www.elmundo.es/opinion/columnistas/2021/05/15/609febe721efa0bd268b467c.html"></contenido>
+            </articulo>
+            <articulo autor="Antonio Lucas">Autonomos
+                <contenido informacion="https://www.elmundo.es/opinion/columnistas/2021/05/16/609fab6efc6c8362178b4611.html"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="depotes">
+            <articulo autor="Carlos Guisasola">del ERTE al ERE
+                <contenido informacion="https://www.elmundo.es/deportes/futbol/primera-division/2021/05/16/60a00464fdddff29b08b461d.html"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="nacional">
+            <articulo autor="Fernando Lázaro">del ERTE al ERE
+                <contenido informacion="https://www.elmundo.es/espana/2021/05/15/609f846cfdddffe1048b45c6.html"></contenido>
+            </articulo>
+            <articulo autor="Francisco Pascual">Autonomos
+                <contenido informacion="https://www.elmundo.es/espana/2021/05/16/609fb96421efa0db658b45fc.html"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="internacional">
+            <articulo autor="Pablo R. Suanzes">del ERTE al ERE
+                <contenido informacion="https://www.elmundo.es/internacional/2021/05/14/609ec90121efa0447a8b4593.html"></contenido>
+            </articulo>
+            <articulo autor="Sal Emergui">Autonomos
+                <contenido informacion="https://www.elmundo.es/internacional/2021/05/15/60a0012dfdddfff39c8b4616.html"></contenido>
+            </articulo>
+        </seccion>
+    </documento>
+    <documento id="P6655" tipo="periodico" tipo_clase="internacional" fechaPub="14/05/2021">
+        <indice>1.Economia 2.Opinion 3.Deportes 4.Internacional</indice>
+        <seccion tipo_seccion="economica">
+            <articulo autor="Irene Hernández">Del ERTE al ERE
+                <contenido informacion="https://www.bbc.com/mundo/noticias-56360877"></contenido>
+            </articulo>
+            <articulo autor="Max Matza">Autonomos
+                <contenido informacion="https://www.bbc.com/mundo/noticias-57122336"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="opinion">
+            <articulo autor="Bryan Lufkin">Autonomos
+                <contenido informacion="https://www.bbc.com/mundo/vert-cul-56811185"></contenido>
+            </articulo>
+            <articulo autor="Marcos González">Del ERTE al ERE
+                <contenido informacion="https://www.bbc.com/mundo/noticias-57095125"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="depotes">
+            <articulo autor="Phill McNulty">Autonomos
+                <contenido informacion="https://www.bbc.com/sport/football/57055571"></contenido>
+            </articulo>
+        </seccion>
+        <seccion tipo_seccion="internacional">
+            <articulo autor="Norberdo Paredes">Del ERTE al ERE
+                <contenido informacion="https://www.bbc.com/mundo/noticias-internacional-57015304"></contenido>
+            </articulo>
+            <articulo autor="James Gallagher">Autonomos
+                <contenido informacion="https://www.bbc.com/mundo/noticias-57131055"></contenido>
+            </articulo>
+            <articulo autor="Jessica Klein">Del ERTE al ERE
+                <contenido informacion="https://www.bbc.com/mundo/vert-cul-57110294"></contenido>
+            </articulo>
+            <articulo autor="Norberto Paredes">Autonomos
+                <contenido informacion="https://www.bbc.com/mundo/noticias-internacional-57087165"></contenido>
+            </articulo>
+        </seccion>
+    </documento>
+</biblioteca>

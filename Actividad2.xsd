@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ESQUEMA XSD del documento Actividad2.xml-->
+<xs:schema xmlns:xs="https://github.com/adrimonte994/LenguajesdeMarcas_Actividad2.git/Actividad2.xsd">
+<xs:element name="documento">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="titulo" type="xs:string" use="required"/> 
+            <xs:element name="indice" type="xs:string" use="required"/> 
+            <xs:element name="sinopsis" type="xs:string"/> 
+            <xs:element name="numero" type="xs:integer"/>
+            <xs:element name="capitulos">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="capitulo" type="xs:string">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="contenido"/> 
+                                </xs:sequence>
+                            </xs:complexType> 
+                        </xs:element> 
+                    </xs:sequence>
+                </xs:complexType> 
+            </xs:element>
+            <xs:element name="secciones">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="seccion" type="xs:string">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="articulo" type="xs:string">
+                                        <xs:complexType>
+                                            <xs:sequence>
+                                                <xs:element name="contenido"/> 
+                                            </xs:sequence>
+                                        </xs:complexType> 
+                                    </xs:element> 
+                                </xs:sequence>
+                            </xs:complexType> 
+                        </xs:element> 
+                    </xs:sequence>
+                </xs:complexType> 
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType> 
+</xs:element>
+<xs:attribute name="id" use="required">
+    <xs:simpleType>
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[LRP][0-9][0-9][0-9][0-9]"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:attribute>
+<xs:attribute name="tipo" use="required">
+    <xs:simpleType>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="libro"/>
+            <xs:enumeration value="periodico"/>
+            <xs:enumeration value="revista"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:attribute>
+<xs:attribute name="tipo_clase" use="required">
+    <xs:simpleType>
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="novela"/>
+            <xs:enumeration value="infantil"/>
+            <xs:enumeration value="didactico"/>
+            <xs:enumeration value="informatica"/>
+            <xs:enumeration value="corazon"/>
+            <xs:enumeration value="coches"/>
+            <xs:enumeration value="investigacion"/>
+            <xs:enumeration value="otras"/>
+            <xs:enumeration value="nacional"/>
+            <xs:enumeration value="internacional"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:attribute>
+<xs:attribute name="numPags" type="xs:integer"/> 
+<xs:attribute name="fechaPub" type="xs:date"/> 
+<xs:attribute name="tipo_seccion" type="xs:string"/> 
+<xs:attribute name="informacion" type="xs:string"/> 
+<xs:attribute name="autor" type="xs:string"/> 
+</xs:schema> 
